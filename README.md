@@ -18,6 +18,6 @@ options:
   -d DESTINATION, --destination DESTINATION
                         dossier de destination des photos traitées, crée si inexistant
   -p [PRENOM ...], --prenom [PRENOM ...]
-                        ajoute le prénom et l'age de l'enfant à partir de sa date de naissance avec le format suivant : Prénom:01/01/2000
+                        ajoute le prénom et l'age de l'enfant à partir de sa date de naissance avec le format suivant Prénom:JJ/MM/AAAA
   -m {nom,metadonnees,metadonnées}, --methode {nom,metadonnees,metadonnées}
                         méthode de récupération de la date (dans le nom du fichier format YYYY-MM-DD ou dans les métadonnées)
