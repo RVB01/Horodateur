@@ -7,6 +7,11 @@ Téléchargez 'pillow' via PIP pour lancer ce script.
 pip3 install pillow
 ```
 
+Sur Windows : 
+...
+py -m pip install pillow
+...
+
 usage: horodateur [-h] -s SOURCE -d DESTINATION [-p [PRENOM ...]] -m {nom,metadonnees,metadonnées}
 
 Ajoute la date des photos sur l'image
